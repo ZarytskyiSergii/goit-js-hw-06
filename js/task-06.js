@@ -1,3 +1,4 @@
+// test
 const textInput = document.querySelector('#validation-input');
 const inputLength = document.querySelector('[data-length="6"]');
 const removeFocustextInput = document.querySelector('[data-action="remove"]');
